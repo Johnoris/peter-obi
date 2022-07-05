@@ -1,0 +1,156 @@
+.village{
+    padding-left: 9.375rem;
+    padding-right: 9.375rem;
+    padding-top: 3.8125rem;
+    max-width: 90rem;
+    margin: 0 auto;
+}
+.location-bar{
+    display: flex;
+    gap: 1.125rem;
+    margin-top: 7.5rem;
+}
+.village h1{
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px; 
+    color: #2F3733; 
+    margin-bottom: 4.5625rem; 
+}
+.village-bar-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3.625rem;
+}
+.village-bar-wrapper{
+    background-color: #FAF1E4;
+    width: 17.625rem;
+    height: 1.6875rem;
+    border-radius: 91px;
+    display: flex;
+    justify-content: space-between;
+}
+.village-bar{
+    height: 1.6875rem;
+    width: 2.875rem;
+    background-color: #CE9E56;   
+    border-radius: 91px;
+}
+.village-bar-child{
+    display: flex;
+    gap: 20px;
+}
+.village-bar-child h4{
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #7A7B7B;
+}
+.village-bar-child p{
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #979797;
+    margin-top: 0.3125rem;
+}
+.village-bar-wrapper p{
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #C4C4C4;
+    margin-right: 5px;
+}
+.village-bar p{
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #ffffff;
+    margin: 5px 10px;
+}
+.current-gov{
+    border: 1px solid #CDFFDB;
+    background-color: #F3FFF7;
+    border-radius: 1.1875rem;
+    margin-top: 1.875rem;
+    padding-left: 1.875rem;
+    padding-top: 1.25rem;
+    display: flex;
+    margin-bottom: 1.875rem;
+}
+.current-gov-child{
+    padding-right: 3.125rem;
+}
+.current-gov-child h4{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #7A7B7B;
+    margin-bottom: 0.9375rem;
+}
+.pdp-logo-wrapper h4{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #7A7B7B;
+    margin-bottom: 0.9375rem;
+    color: #7A7B7B;
+}
+.img-container h2{
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    color: #2F3733;
+    margin-bottom: 0.3125rem;
+}
+.img-container h6{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #7A7B7B;
+    margin-bottom: 0.3125rem;
+}
+.img-container p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #2F3733;
+}
+.pdp-logo-container{
+    display: flex;
+    margin-bottom: 1.25rem;    
+}
+.pdp-logo-wrapper{
+    border-left: 1px solid #E1E1E1;
+    padding-left: 3.375rem;
+}
+.img-container{
+    display: flex;
+    gap: 0.625rem;
+}
+.pdp-logo-container h2{
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px;
+    color: #2F3733;
+}
+.pdp-logo-container p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #979797;
+}
+.pdp-logo-container img{
+    margin-right: 0.825rem;
+}

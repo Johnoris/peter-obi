@@ -1,0 +1,46 @@
+.states-wrapper{
+    display: flex;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+}
+.states-top{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    padding-top: 3.8125rem;
+}
+.states-top h2{
+    font-family: Lato;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.625rem;
+    color: #2F3733;
+    margin-bottom: 3.8125rem;
+}
+.search-box{
+    display: flex;
+    border: 1px solid #979797;
+    width: 16.875rem;
+    height: 2.75rem;
+    border-radius: 48px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.search-box input{
+    border: none;
+    outline: none;
+    margin-left: 0.8125rem;
+    margin-bottom: 0.35rem;
+}
+.search-box input::placeholder{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #979797;
+}
+.search-box img{
+    width: 1.5rem;
+    height: 1.5rem;
+}

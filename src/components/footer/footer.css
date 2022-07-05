@@ -1,0 +1,47 @@
+footer{
+    background-color: #E4FFEC;
+    padding-top: 5.875rem;
+    padding-left: 9.6875rem;
+    padding-right: 32.875rem;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5rem;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.footer-text h2{
+    font-family: Lato;
+    font-size: 2.8125rem;
+    font-weight: 700;
+    line-height: 3.625rem;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #018226;
+}
+.footer-text p{
+    font-family: Lato;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3125rem;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5F6160;
+    margin-top: 0.9375rem;
+    margin-bottom: 1.875rem;
+}
+.footer-text button{
+    width: 21rem;
+    height: 4.3125rem;
+    background-color: #018226;
+    border-radius: 3rem;
+    border: none;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #ffffff;
+
+}
+.footer-text{
+    max-width: 24.25rem;
+}

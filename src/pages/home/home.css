@@ -1,0 +1,93 @@
+.top-section{
+    background-image: url("../../assets/images/bg-ellipse.png");
+    background-repeat: space;
+    padding-left: 9.375rem;
+    padding-right: 9.375rem;
+    padding-top: 4.0625rem;
+}
+.home-page{
+    max-width: 1440px;
+    margin: 0 auto;
+    z-index: 1;
+}
+.states-container{
+    padding-left: 9.375rem;
+    padding-right: 9.375rem;
+    display: flex;
+    gap: 1.25rem;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-container{
+    display: flex;
+    gap: 5.875rem;
+    justify-content: center;
+    margin-top: 8.125rem;
+    margin-bottom: 5.0625rem;
+}
+.logo-container :nth-child(1){
+    max-width: 30.8125rem;
+}
+.logo-container h3{
+    font-family: Lato;
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 58px;
+    color: #5F6160;
+}
+.logo-container h1{
+    font-family: Lato;
+    font-size: 95px;
+    font-weight: 900;
+    line-height: 123px;
+    color: #2F3733;
+}
+.logo-container p{
+    font-family: Lato;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height:1.3125rem;
+    color: #5F6160;
+}
+.logo-container p span{
+    font-weight: 700;
+    color: #018226;
+}
+.progress-bar-1{
+    background-color: #E4FFEC;
+    height: 6.1875rem;
+    width: 71.25rem;
+    border-radius: 5.6875rem;
+}
+.inner-bar-1{
+    border-radius: 5.6875rem;
+    background-color: #018226;
+    width: 12.73875rem;
+    height: 6.1875rem;
+    display: flex;
+    justify-content: flex-end;
+}
+.bar-wrapper h3{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #2F3733;
+    margin-bottom: 1.5625rem;
+}
+.bar-label{
+    display: flex;
+    justify-content: space-between;
+}
+.bar-label p{
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    color: #2F3733;
+    margin-top: 1.5625rem;
+    margin-bottom: 10.25rem;
+}
